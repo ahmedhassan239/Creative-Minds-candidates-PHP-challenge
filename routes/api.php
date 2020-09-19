@@ -14,6 +14,8 @@ Route::group([
     Route::post('/profile', [AuthController::class, 'profile']);
 
 
+
+
 });
 
 
