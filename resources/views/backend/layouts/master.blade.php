@@ -1,0 +1,6 @@
+@include('backend.layouts.header')
+@include('backend.layouts.nav')
+@include('backend.layouts.aside')
+@include('backend.layouts.content')
+@include('backend.layouts.footer')
+@include('backend.layouts.layout_options')
